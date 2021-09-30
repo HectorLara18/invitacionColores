@@ -1,0 +1,73 @@
+body{
+    background-color: #c4afb8;
+    color: white;
+    
+}
+
+.estrella-dorada{
+    background-color: #cfb53b;
+    width: 20vw;
+    height: 10vh;
+    border: solid 1px black;
+    text-align: center;
+}
+
+.estrella-cafe{
+    background-color: #b89b12;
+    width: 20vw;
+    height: 10vh;
+    border: solid 1px black;
+    text-align: center;
+}
+
+
+.estrella-naranja{
+    background-color: #947b06;
+    width: 20vw;
+    height: 10vh;
+    border: solid 1px black;
+    text-align: center;
+}
+
+.imagen-fondo{
+    /**background-color: #b09104;**/
+    background-color: #b09504;
+    width: 20vw;
+    height: 10vh;
+    border: solid 1px black;
+    text-align: center;
+    color: white;
+}
+
+.sobre{
+    /**background-color: #c8d8fc;**/
+    background-color: #8692ad;
+    left: 0px;
+    width: 100vw;
+    height: 30vh;
+    color: #cfb53b;
+}
+
+.sobre2{
+    background-color: #c8d8fc;
+    left: 0px;
+    width: 100vw;
+    height: 30vh;
+    color: #cfb53b;
+}
+
+.sobre3{
+    background-color: #6276a3;
+    left: 0px;
+    width: 100vw;
+    height: 30vh;
+    color: #cfb53b;
+}
+
+.sobre4{
+    background-color: #4e5e82;
+    left: 0px;
+    width: 100vw;
+    height: 30vh;
+    color: #cfb53b;
+}
